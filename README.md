@@ -1,6 +1,6 @@
 # 👋 Welcome to Alex Risch's GitHub!
 
-Hi there! I'm **Alex Risch**, a passionate developer exploring the frontiers of **TypeScript**, **React Native**, and creative broadcasting tools. I believe in crafting clean, scalable, and impactful code that brings ideas to life.
+Hi there! I'm **Alex Risch**, a passionate developer exploring the frontiers of **TypeScript**, **React Native**, and building the next great messaging app. I believe in crafting clean, scalable, and impactful code that brings ideas to life.
 
 ---
 
