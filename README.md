@@ -12,8 +12,9 @@ Hi there! I'm **Alex Risch**, a passionate developer exploring the frontiers of 
 ---
 
 ## 📂 Highlighted Projects
-- **[Converse](https://github.com/ephemeraHQ/converse-app)**: An open source, world class app for messaging on the XMTP Network with React Native
-- **[XMTP React Native SDK](https://github.com/xmtp/xmtp-react-native)**: The XMTP React Native SDK
+- **[AI Agent Web Kit](https://github.com/alexrisch/agent-web-kit)**: Open source NextJS integration with AI Agent Service Kit including proxy server
+- **[AI Agent React Native Kit](https://github.com/alexrisch/agent-react-native-kit)**: Open Source React Native integration with AI Agent Service Kit including proxy server
+- **[AI Agent Lynx Kit](https://github.com/alexrisch/agent-lynx-kit)**: Open Source Lynx integration with AI Agent Service Kit including proxy server
 
 ---
 
